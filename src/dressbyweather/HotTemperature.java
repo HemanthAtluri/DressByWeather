@@ -15,7 +15,7 @@ public class HotTemperature implements Temperature {
  
     /**
      *This method provides definition by overriding method in interface and this method uses switch case basing on the input
-     * @param s is a input of type String, this is command entered by the used
+     * @param s is a input of type String, this is command entered by the user
      */
     @Override
     public void getCommand(String s) {
